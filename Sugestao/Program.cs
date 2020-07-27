@@ -40,7 +40,7 @@ namespace Sugestao
                 }
 
             }
-            Console.WriteLine("Bom dia Github seu lindo!!!!!!!!");
+            Console.WriteLine("Bom dia Github!");
 
         }
     }
